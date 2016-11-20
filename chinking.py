@@ -24,7 +24,7 @@ tokenized = custom_sent_tokenizer.tokenize(sample_text)
 # {x,y} = expect to see this x-y amounts of the precedng code
 #==============================================================================
 
-# Parts of speech, Chunking
+# Parts of speech
 def process_content():
     try:
         for i in tokenized:
